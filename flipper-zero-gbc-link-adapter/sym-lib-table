@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gbc-link-connector")(type "KiCad")(uri "${KIPRJMOD}/gbc-link-connector.kicad_sym")(options "")(descr ""))
+)
